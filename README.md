@@ -6,3 +6,9 @@ Nginx is a popular open-source web server software known for its high performanc
 
 # Docker 
 Docker is a platform for developing, shipping, and running applications using containerization technology. With Docker, you can package your application and its dependencies into a standardized unit called a container, which ensures consistency across different environments. Containers are lightweight, portable, and isolated environments that enable you to run your applications seamlessly on any infrastructure, whether it's your local machine, a public cloud, or on-premises servers. Docker simplifies the process of building, deploying, and managing applications, making it easier for developers to collaborate, ship software faster, and maintain a consistent development-to-production workflow.
+
+# Pull
+Pull first 
+
+# execute docker command 
+`docker-compose up --build -d` 
